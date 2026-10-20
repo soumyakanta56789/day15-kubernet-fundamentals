@@ -35,3 +35,4 @@ Instead of just reading about cloud technology, I set up a real, fully-functioni
 * **Kubectl** – The command controller I used to talk to Kubernetes.
 * **Git & GitHub** – The tracking system used to save and backup my project.
 * **Nginx** – The website engine running inside my cluster.
+# day17-kubeservice
